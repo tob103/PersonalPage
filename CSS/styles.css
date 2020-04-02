@@ -1,0 +1,132 @@
+a {
+  color: #084177;
+  text-decoration: none;
+}
+
+a:hover {
+  color: cadetblue;
+}
+
+body {
+  background-color: #ecfbfc;
+  font-family: "Tahoma", sans-serif;
+  text-align: center;
+}
+
+div {
+  display: block;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'EB Garamond', sans-serif;
+  font-size: 300%;
+}
+
+h2 {
+  background-color: white;
+  border: 2px solid #005082;
+  border-radius: 5%;
+  border-width: 5px;
+  display: inline-block;
+  font-family: "Tahoma", sans-serif;
+  font-size: 1.5rem;
+  padding: 8px;
+  position: relative;
+}
+
+h3 {
+  font-family: "Tahoma", sans-serif;
+  text-align: center;
+}
+
+hr {
+  border: dotted 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+li {
+  color: blue;
+  font-size: 1.25rem;
+  text-decoration: none;
+}
+
+p {
+  line-height: 2;
+  margin: auto;
+  width: 30%;
+}
+
+/* CLASS SELECTORS */
+.aboutme {
+  font-family: "Tahoma", sans-serif;
+  position: relative;
+  top: 30px;
+}
+
+.aboutmetext {
+  padding-left: .625rem;
+  margin-top: .9375rem;
+  margin-bottom: .9375rem;
+}
+
+.bottom-container {
+  position: relative;
+  background-color: cadetblue;
+}
+
+.btn {
+  background-color: white;
+  border: 2px solid #005082;
+  border-radius: 5%;
+  border-width: 5px;
+  display: inline-block;
+  font-family: "Tahoma", sans-serif;
+  color: black;
+  font-size: 1.5rem;
+  padding: 8px;
+  position: relative;
+  font-weight: bold;
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.database {
+  display: block;
+  height: 12.5rem;
+  margin: 0 auto 0 auto;
+}
+
+.heading {
+  background-color: #c2f0fc;
+  border-width: 5px;
+  margin: 0 auto 0 auto;
+  padding-left: 10px;
+}
+
+.hobbies {
+  position: relative;
+  top: 30px;
+}
+
+.mountain {
+  border: solid 2px;
+  display: block;
+  height: 600px;
+  margin: 0 auto 0 auto;
+  width: 1000px;
+}
+
+.pro {
+  font-weight: bold;
+}
+
+.skill-row {
+  margin: 10px auto 100px auto;
+}
+
+.smiley {
+  height: 25px;
+}
